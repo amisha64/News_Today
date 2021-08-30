@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/general"
+        android:title="General" android:icon="@drawable/home"/>
+    <item android:id="@+id/tech"
+        android:title="Technology" android:icon="@drawable/project"/>
+    <item android:id="@+id/business"
+        android:title="Business" android:icon="@drawable/stats"/>
+    <item android:id="@+id/sports"
+        android:title="Sports" android:icon="@drawable/sports"/>
+    <item android:id="@+id/health"
+        android:title="Health" android:icon="@drawable/healthcare"/>
+
+</menu>
